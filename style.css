@@ -2728,7 +2728,7 @@ header nav ol li:hover{
   #bfe6ef 70%,
   #a0fffc);
   transition: 1s;
-  font-size: 62px;
+  font-size: 22px;
 }
 .frbth{
   display: flex;
@@ -2747,7 +2747,7 @@ header nav ol li:hover{
 }
 .frp:hover{
   transition: 1s;
-  font-size: 21px;
+  font-size: 12px;
   background: radial-gradient(circle at top left,
   #daedeb,
   #90d1d1 30%,
@@ -3215,7 +3215,7 @@ header nav ol li:hover{
   #bfe6ef 70%,
   #a0fffc);
   transition: 1s;
-  font-size: 62px;
+  font-size: 22px;
 }
 .frbth{
   display: flex;
